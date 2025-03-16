@@ -51,12 +51,6 @@
 
 ###
 
-<div align="center">
-  <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxnejY1NzBycGcwM2s4bXdoNHRrZTJxcXp3MmdlM3BkbXFxOTlsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/w16.manik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
