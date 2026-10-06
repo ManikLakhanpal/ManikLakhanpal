@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manik Lakhanpal</h1>
 
 <h3 align="center">
-iOS Developer • Full Stack Developer • AI Enthusiast
+Software Engineer • iOS Developer • Full Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
@@ -24,26 +24,38 @@ Building beautiful Apple experiences 🍎 and scalable web applications 🌍
 
 ## 🚀 About Me
 
-- 🎓 BE Computer Science student at **Chitkara University**
-- 📱 Published **5 iOS applications** on the App Store
-- 💼 Former **iOS Developer Intern @ Infosys**
-- 🍎 Passionate about SwiftUI, Apple Intelligence & native iOS development
-- 🌐 Full Stack Developer using React, Next.js, Node.js & PostgreSQL
-- 🤖 Interested in AI, LLMs and intelligent developer tools
-- 🚀 Currently building products that solve real-world problems
+- 💼 **Software Engineer I @ GeekyAnts** building with React, Next.js & React Native
+- 🎓 B.E. CSE @ **Chitkara University** (CGPA **9.49**), part of the university's iOS Development Center (Apple × Infosys)
+- 📱 Published **5 iOS apps** on the App Store
+- 🏢 Ex-**iOS App Development Intern @ Infosys**, where I was Scrum Master for a 10-member team
+- 🧑‍💻 Freelance full-stack developer since 2023
+- 🤖 Into AI, LLMs and developer tools: LangChain, LangGraph, Gemini & OpenAI APIs
+- 🏆 Hack With India 2025: Top 5,000 of 25,000 teams
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 AssetLens
-Track Binance assets, Zerodha investments, Mutual Funds & SIPs in one place with an integrated AI assistant.
+| Project | What it is |
+|---|---|
+| 🤝 **HackMate** | iOS hackathon companion app (SwiftUI, real-time). Ranked **#64 in Developer Tools** on the App Store |
+| 📊 **AssetLens** | Track Binance, Zerodha, Mutual Funds & SIPs in one place with an AI assistant |
+| 📚 **CapyTales** | iOS book journal with Apple Intelligence, widgets, iCloud Sync & subscriptions |
+| 🚌 **Ubus** | University bus management system: Spring Boot + Next.js microservices, JWT auth, Razorpay, Docker Compose |
+| 🎥 **Tube Pay** | Real-time YouTube SuperChat platform: WebSockets, Redis caching (**30% lower DB load**), Razorpay |
+| 💼 **MatchHire** | Bumble-inspired hiring platform where recruiters swipe through candidates |
 
-### 📚 CapyTales
-A modern book journal for iOS with Apple Intelligence, widgets, iCloud Sync, subscriptions and beautiful native UI.
+---
 
-### 🤝 MatchHire
-A Bumble-inspired hiring platform where recruiters swipe through candidates and discover talent faster.
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=swift,ts,js,py,java,cpp,c,react,nextjs,tailwind,html,css,nodejs,express,spring,postgres,mongodb,redis,docker,kubernetes,aws,cloudflare,linux,git,github,apple,vercel,digitalocean,figma,vscode,xcode&perline=11" />
+</p>
+
+<p align="center">
+<sub>Also: React Native • Expo • SwiftUI • UIKit • Microservices • REST • JWT • LangChain • LangGraph • LangSmith • Gemini API • OpenAI API</sub>
+</p>
 
 ---
 
@@ -58,40 +70,6 @@ A Bumble-inspired hiring platform where recruiters swipe through candidates and 
 <img src="https://streak-stats.demolab.com?user=ManikLakhanpal&theme=tokyonight"/>
 
 </div>
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=swift,ts,js,cpp,java,c" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,deno" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,apple,vercel,digitalocean,figma,vscode,xcode" />
-</p>
 
 ---
 
